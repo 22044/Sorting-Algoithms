@@ -55,6 +55,7 @@ int main(){
     
     time_taken = ((double) (end - start)) / CLOCKS_PER_SEC;
     printf("\nTime taken for Sorting Random Data: %f", time_taken);
+    
 //*************************************************************************************** 
 //For Already Sorted Data :
     printf("\nAlready Sorted Data :");
