@@ -35,7 +35,7 @@ int main(){
     printf("* Harshil Savaj / 20012531030");
     printf("\n* Bubble Sort Algo and Its Time");
     printf("\n----------------------------------");
-    int n=50000;
+    int n=50;
     int i;
     int arr;
     
@@ -55,6 +55,7 @@ int main(){
     
     time_taken = ((double) (end - start)) / CLOCKS_PER_SEC;
     printf("\nTime taken for Sorting Random Data: %f", time_taken);
+    
 //*************************************************************************************** 
 //For Already Sorted Data :
     printf("\nAlready Sorted Data :");
