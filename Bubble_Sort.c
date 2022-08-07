@@ -35,7 +35,7 @@ int main(){
     printf("* Harshil Savaj / 20012531030");
     printf("\n* Bubble Sort Algo and Its Time");
     printf("\n----------------------------------");
-    int n=40;
+    int n=50;
     int i;
     int arr;
     
